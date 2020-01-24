@@ -1,1 +1,1 @@
-# The default keymap for prophet
+# the default keymap (ANSI layout)
